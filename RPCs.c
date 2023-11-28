@@ -1,0 +1,5 @@
+enum DZ_T_RPC
+{
+	ON_JUMP = 350104060,
+	ON_JUMP_SERVER
+}
